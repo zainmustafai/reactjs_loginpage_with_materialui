@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactjs_loginpage_with_materialui/static/css/main.282c03ed.chunk.css",
+    "main.js": "/reactjs_loginpage_with_materialui/static/js/main.baa37492.chunk.js",
+    "main.js.map": "/reactjs_loginpage_with_materialui/static/js/main.baa37492.chunk.js.map",
+    "runtime-main.js": "/reactjs_loginpage_with_materialui/static/js/runtime-main.b38a0d57.js",
+    "runtime-main.js.map": "/reactjs_loginpage_with_materialui/static/js/runtime-main.b38a0d57.js.map",
+    "static/css/2.818011ed.chunk.css": "/reactjs_loginpage_with_materialui/static/css/2.818011ed.chunk.css",
+    "static/js/2.a19aae25.chunk.js": "/reactjs_loginpage_with_materialui/static/js/2.a19aae25.chunk.js",
+    "static/js/2.a19aae25.chunk.js.map": "/reactjs_loginpage_with_materialui/static/js/2.a19aae25.chunk.js.map",
+    "static/js/3.c1bb1c4b.chunk.js": "/reactjs_loginpage_with_materialui/static/js/3.c1bb1c4b.chunk.js",
+    "static/js/3.c1bb1c4b.chunk.js.map": "/reactjs_loginpage_with_materialui/static/js/3.c1bb1c4b.chunk.js.map",
+    "index.html": "/reactjs_loginpage_with_materialui/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/reactjs_loginpage_with_materialui/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.282c03ed.chunk.css.map": "/reactjs_loginpage_with_materialui/static/css/main.282c03ed.chunk.css.map",
+    "static/js/2.a19aae25.chunk.js.LICENSE.txt": "/reactjs_loginpage_with_materialui/static/js/2.a19aae25.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b38a0d57.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.a19aae25.chunk.js",
+    "static/css/main.282c03ed.chunk.css",
+    "static/js/main.baa37492.chunk.js"
+  ]
+}
